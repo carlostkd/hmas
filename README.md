@@ -1,6 +1,22 @@
 
 # 🧠 HMAS API & CLI – Hackable Messaging Automation System
 
+Demo Online https://carlostkd.ch/hmas/demo.html
+
+Hmas Official https://carlostkd.ch/hmas
+
+Pranks and Apps
+
+https://carlostkd.ch/hmas/pranks.html
+
+https://carlostkd.ch/hmas/apps
+
+Blog https://blog.carlostkd.ch
+
+Download python GUI 
+
+https://drive.proton.me/urls/8EB24BM7GC#1GsRQCkGxwf5
+
 A command-line and browser-accessible API that blends 🕵️ hacker vibes with 💼 practical utility.
 
 > Perfect for red teamers, sysadmins, developers and privacy enthusiasts.
